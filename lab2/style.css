@@ -1,0 +1,49 @@
+
+p {
+    color: white;
+}
+
+body {
+    background-color: #595647;
+}
+
+h1 {
+    color: #9cc0f2;
+}
+
+li{
+    color: white;
+}
+td{
+    color: white;
+    text-align: center;
+}
+a{
+    color: red;
+}
+
+img.thumbnail {
+   width: 300px;
+   height: 150px;
+}
+
+.interest {
+    color: #Ece309;
+}
+
+.self {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+.header {
+    color: #9cc0f2;
+    font-size: 2vw;
+    font-family: "Arial"
+}
+
+img.validator {
+   width: 100px;
+   height: 50px;
+}
